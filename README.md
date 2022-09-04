@@ -1,23 +1,57 @@
-# CloudTravelShopWWW
-生活的理想，就是理想的生活，人没有理想和咸鱼有什么区别。
+# Ant Design Pro
 
-uniApp
-1. 登录模块
-2. 定位模块
-3. 直播模块
-4. 商品模块
-5. 订单模块
-6. 个人信息
+This project is initialized with [Ant Design Pro](https://pro.ant.design). Follow is the quick guide for how to use.
 
-商家后台pc端、移动端
-1. 数据分析
-2. 订单管理
-3. 商品管理
+## Environment Prepare
 
-公司后台
-1. 商家管理
-2. 数据分析
-3. 用户管理
+Install `node_modules`:
 
-服务和用户
-商品 + 服务
+```bash
+npm install
+```
+
+or
+
+```bash
+yarn
+```
+
+## Provided Scripts
+
+Ant Design Pro provides some useful script to help you quick start and build with web project, code style check and test.
+
+Scripts provided in `package.json`. It's safe to modify or add additional script:
+
+### Start project
+
+```bash
+npm start
+```
+
+### Build project
+
+```bash
+npm run build
+```
+
+### Check code style
+
+```bash
+npm run lint
+```
+
+You can also use script to auto fix some lint error:
+
+```bash
+npm run lint:fix
+```
+
+### Test code
+
+```bash
+npm test
+```
+
+## More
+
+You can view full document on our [official website](https://pro.ant.design). And welcome any feedback in our [github](https://github.com/ant-design/ant-design-pro).
